@@ -5,8 +5,13 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "DatasmithFBXImporter",
-			"Enabled": true
+			"Name": "MegascansPlugin",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }
